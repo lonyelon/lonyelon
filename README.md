@@ -1,3 +1,9 @@
+Hey! I am just starting to build my GitHub profile, so sorry if this is a mess.
+
+If you speak spanish you can check [my blog](https://blog.lony.xyz), if you don't, you can check the [english version](https://blog.lony.xyz/en), but I do not translate posts that much.
+
+I like to call myself a reference author on quantum cryptography, as my work has been put into [some collections](https://infolibros.org/libros-pdf-gratis/informatica/computacion-cuantica) and appears as 4th result if you search "libros criptografía cuántica". I would love this to be a joke, but it is not, and I hope no one took my job as a reference.
+
 ## Current projects
 
 - [Submarine](https://github.com/lonyelon/submarine): An underwater drone I am designing for exploration at the local lake.
