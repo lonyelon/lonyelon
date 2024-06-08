@@ -13,7 +13,7 @@ I like to call myself a reference author on quantum cryptography, as my work has
   - [Dmenu](https://github.com/lonyelon/dmenu): The menu for my desktop.
   - [DWL](https://github.com/lonyelon/dwl): Patches for DWL, the wayland alternative to DWM.
 
-# Open source contributions
+## Open source contributions
 
 - [Nixpkgs](https://github.com/NixOS/nixpkgs): I maintain some packages, mainly drivers.
 - Linux Kernel: Worked on removing some code in the AMD and PCI drivers.
