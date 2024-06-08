@@ -33,3 +33,5 @@ I like to call myself a reference author on quantum cryptography, as my work has
 - [Gentoo Overlay](https://github.com/lonyelon/overlay): My Gentoo overlay.
 - [FuzzYourYelon](https://github.com/lonyelon/FuzzYourYelon): Website scanner.
 - [SerialKon](https://github.com/lonyelon/SerialKon): Serial console written in C#.
+- [Twitter crypto price bot](https://gist.github.com/lonyelon/875e9f89749b3575fd39504cad6696f9): It's all it is.
+- [ArchLinux installer](https://gist.github.com/lonyelon/96b129630aeb0c46c2e73aa1cbcb6de1): ArchLinux installer, made before the official one existe.
