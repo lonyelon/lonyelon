@@ -12,6 +12,7 @@ I like to call myself a reference author on quantum cryptography, as my work has
   - [ST](https://github.com/lonyelon/st): The terminal for my tiling window manager.
   - [Dmenu](https://github.com/lonyelon/dmenu): The menu for my desktop.
   - [DWL](https://github.com/lonyelon/dwl): Patches for DWL, the wayland alternative to DWM.
+- [CRKBD-firmware](https://github.com/lonyelon/crkbd-firmware): Firmware for my ergo split keyboard.
 
 ## Open source contributions
 
