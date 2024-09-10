@@ -13,6 +13,8 @@ I like to call myself a reference author on quantum cryptography, as my work has
   - [Dmenu](https://github.com/lonyelon/dmenu): The menu for my desktop.
   - [DWL](https://github.com/lonyelon/dwl): Patches for DWL, the wayland alternative to DWM.
 - [CRKBD-firmware](https://github.com/lonyelon/crkbd-firmware): Firmware for my ergo split keyboard.
+- [GF-Gift](https://github.com/lonyelon/gf-gift): A gift for my girlfriend. A ESP32 e-ink display that counts how long we have been together.
+- [RDiary](https://github.com/lonyelon/rdiary): Diary writer made in RUST. I use this daily.
 
 ## Open source contributions
 
