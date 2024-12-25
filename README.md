@@ -21,6 +21,7 @@ I like to call myself a reference author on quantum cryptography, as my work has
 - [Nixpkgs](https://github.com/NixOS/nixpkgs): I maintain some packages, mainly drivers.
 - Linux Kernel: Worked on removing some code in the AMD and PCI drivers.
 - [Logseq](https://github.com/logseq/logseq): Added some functions that the community requested.
+- [Codee's Open Catalog](https://github.com/codee-com/open-catalog): Corrected the documentation (this is a docs repo).
 - [Synapse](https://github.com/matrix-org/synapse): Fixed their docker image.
 - [LBRY.com](https://github.com/lbryio/lbry.com): Fixed some links in their site.
 
