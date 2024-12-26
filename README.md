@@ -6,8 +6,6 @@ I like to call myself a reference author on quantum cryptography, as my work has
 
 ## Current projects
 
-- [Submarine](https://github.com/lonyelon/submarine): An underwater drone I am designing for exploration at the local lake.
-- [ssc08v02](https://github.com/lonyelon/ssc08v02): Second version of my 8-bit homemade CPU.
 - [DWM](https://github.com/lonyelon/dwm): My tiling window manager.
   - [ST](https://github.com/lonyelon/st): The terminal for my tiling window manager.
   - [Dmenu](https://github.com/lonyelon/dmenu): The menu for my desktop.
@@ -15,6 +13,9 @@ I like to call myself a reference author on quantum cryptography, as my work has
 - [CRKBD-firmware](https://github.com/lonyelon/crkbd-firmware): Firmware for my ergo split keyboard.
 - [GF-Gift](https://github.com/lonyelon/gf-gift): A gift for my girlfriend. A ESP32 e-ink display that counts how long we have been together.
 - [RDiary](https://github.com/lonyelon/rdiary): Diary writer made in RUST. I use this daily.
+- [Carnivores Flake](https://github.com/lonyelon/carnivores-flake): Nix flake to play the old Carnivores games.
+- [Submarine](https://github.com/lonyelon/submarine): An underwater drone I am designing for exploration at the local lake.
+- [ssc08v02](https://github.com/lonyelon/ssc08v02): Second version of my 8-bit homemade CPU.
 
 ## Open source contributions
 
