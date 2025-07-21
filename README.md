@@ -6,6 +6,7 @@ I like to call myself a reference author on quantum cryptography, as my work has
 
 ## Current projects
 
+- [OpenCraft](https://github.com/lonyelon/Opencraft): A Minecraft clone in C++.
 - [DWM](https://github.com/lonyelon/dwm): My tiling window manager.
   - [ST](https://github.com/lonyelon/st): The terminal for my tiling window manager.
   - [Dmenu](https://github.com/lonyelon/dmenu): The menu for my desktop.
@@ -33,7 +34,6 @@ I like to call myself a reference author on quantum cryptography, as my work has
 - [Determinant](https://github.com/lonyelon/determinant): A matrix client inspired by VIM.
 - [NeuralC](https://github.com/lonyelon/NeuralC): A really bad neural network trainer made in C.
 - [DComp](https://github.com/lonyelon/dcomp): A D compiler written in C. Yes, no joke.
-- [OpenCraft](https://github.com/lonyelon/Opencraft): A Minecraft clone in C++.
 - [OrcaSlicer](https://github.com/lonyelon/nix-orca-slicer): A fork of the nix-orcaslicer flake.
 - [Gentoo Overlay](https://github.com/lonyelon/overlay): My Gentoo overlay.
 - [FuzzYourYelon](https://github.com/lonyelon/FuzzYourYelon): Website scanner.
