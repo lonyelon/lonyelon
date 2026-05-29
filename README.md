@@ -10,7 +10,7 @@ I like to call myself a reference author on quantum cryptography, as my work has
 - [CRKBD-firmware](https://github.com/lonyelon/crkbd-firmware): Firmware for my ergo split keyboard.
 - [GF-Gift](https://codeberg.org/sergiosh/gf-gift): A gift for my girlfriend. A ESP32 e-ink display that counts how long we have been together.
 - [RDiary](https://github.com/lonyelon/rdiary): Diary writer made in RUST. I use this daily.
-- [Carnivores Flake](https://github.com/lonyelon/carnivores-flake): Nix flake to play the old Carnivores games.
+- [Carnivores Flake](https://codeberg.org/sergiosh/carnivores-flake): Nix flake to play the old Carnivores games.
 - [Submarine](https://github.com/lonyelon/submarine): An underwater drone I am designing for exploration at the local lake.
 - [ssc08v02](https://github.com/lonyelon/ssc08v02): Second version of my 8-bit homemade CPU.
 
